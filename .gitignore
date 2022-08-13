@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# plasmo - https://www.plasmo.com
+.plasmo
+build
+
+# bpp - http://bpp.browser.market/
+keys.json
+
+# typescript
+.tsbuildinfo
